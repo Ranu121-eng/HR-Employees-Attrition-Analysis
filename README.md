@@ -30,3 +30,20 @@ The key business challenge is to move beyond simply knowing how many employees l
 - SQL : Business-question analysis
 - Power BI : Interactive dashboard and data storytelling
 - MS Word :	Business Requirements Document
+# ⚙️ Project Workflow
+1️⃣ Business Requirement Analysis
+The project started with a Business Requirements Document defining:
+Business problem
+Project objectives
+KPIs
+Exploratory questions
+Business questions
+Expected analytical outcomes
+2️⃣ Data Preparation & Cleaning
+The raw employee dataset was first reviewed and cleaned before performing analysis.
+The preparation process included:
+Understanding the dataset structure
+Reviewing data types
+Checking missing values
+Checking duplicate records
+Validating categorical variables
