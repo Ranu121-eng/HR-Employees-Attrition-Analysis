@@ -21,4 +21,4 @@ The key business challenge is to move beyond simply knowing how many employees l
 13.	Does marital status show differences in attrition?
 14.	Does distance from home relate to attrition?
 # 📊 Dataset
-
+<a href= "https://github.com/Ranu121-eng/HR-Employees-Attrition-Analysis/blob/main/HR_Raw_Data.csv">HR Raw Dataset
