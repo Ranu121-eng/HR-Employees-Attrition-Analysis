@@ -20,3 +20,5 @@ The key business challenge is to move beyond simply knowing how many employees l
 12.	Does age group show differences in attrition?
 13.	Does marital status show differences in attrition?
 14.	Does distance from home relate to attrition?
+# 📊 Dataset
+
