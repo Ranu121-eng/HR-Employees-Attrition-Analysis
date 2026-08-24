@@ -22,3 +22,11 @@ The key business challenge is to move beyond simply knowing how many employees l
 14.	Does distance from home relate to attrition?
 # 📊 Dataset
 <a href= "https://github.com/Ranu121-eng/HR-Employees-Attrition-Analysis/blob/main/HR_Raw_Data.csv">HR Raw Dataset
+# 🛠️ Tools & Technologies
+- Microsoft Excel : Data cleaning and preliminary analysis
+- Python : Exploratory data analysis
+- Pandas : Data manipulation and statistical analysis
+- Matplotlib : Data visualization
+- SQL : Business-question analysis
+- Power BI : Interactive dashboard and data storytelling
+- MS Word :	Business Requirements Document
