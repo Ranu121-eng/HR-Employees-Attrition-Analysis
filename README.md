@@ -103,6 +103,7 @@ KPIs :
 # 📷 Dashboard Preview
 <img width="799" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/8783f66a-1a4d-483c-ad42-bce314b7e9db" />
 <br>
+
 # 💡 HR Recommendations
 <br>
 Based on the analytical framework and observed attrition patterns, HR can consider the following areas for further action:<br>
@@ -112,7 +113,7 @@ Review workload distribution and overtime patterns in teams where employee turno
 <br>
 2. Strengthen Early-Tenure Retention
 <br>
-Employees in the early stages of their careers within the organization can be supported through:
+Employees in the early stages of their careers within the organization can be supported through:<br>
 - Stronger onboarding
 - Regular manager check-ins
 - Mentoring
@@ -120,7 +121,7 @@ Employees in the early stages of their careers within the organization can be su
 <br>
 3. Focus on High-Attrition Job Roles
 <br>
-Roles showing higher historical attrition should be investigated further for:
+Roles showing higher historical attrition should be investigated further for: <br>
 - Workload
 - Compensation
 - Career growth
@@ -129,7 +130,7 @@ Roles showing higher historical attrition should be investigated further for:
 <br>
 4. Improve Career Development
 <br>
-Employees experiencing longer periods without promotion may benefit from clearer:
+Employees experiencing longer periods without promotion may benefit from clearer: <br>
 - Career paths
 - Development plans
 - Skill-building opportunities
