@@ -114,27 +114,27 @@ Review workload distribution and overtime patterns in teams where employee turno
 2. Strengthen Early-Tenure Retention
 <br>
 Employees in the early stages of their careers within the organization can be supported through:<br>
-- Stronger onboarding
-- Regular manager check-ins
-- Mentoring
+- Stronger onboarding <br>
+- Regular manager check-ins <br>
+- Mentoring <br>
 - Early engagement initiatives
 <br>
 3. Focus on High-Attrition Job Roles
 <br>
 Roles showing higher historical attrition should be investigated further for: <br>
-- Workload
-- Compensation
-- Career growth
-- Management practices
+- Workload <br>
+- Compensation <br>
+- Career growth <br>
+- Management practices <br>
 - Job satisfaction
 <br>
 4. Improve Career Development
 <br>
 Employees experiencing longer periods without promotion may benefit from clearer: <br>
-- Career paths
-- Development plans
-- Skill-building opportunities
-- Promotion criteria
+- Career paths <br>
+- Development plans <br>
+- Skill-building opportunities <br>
+- Promotion criteria 
 <br>
 5. Monitor Employee Satisfaction
 <br>
