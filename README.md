@@ -109,6 +109,7 @@ Based on the analytical framework and observed attrition patterns, HR can consid
 1. Monitor Overtime & Workload
 <br>
 Review workload distribution and overtime patterns in teams where employee turnover is relatively high.
+<br>
 2. Strengthen Early-Tenure Retention
 <br>
 Employees in the early stages of their careers within the organization can be supported through:
@@ -116,6 +117,7 @@ Employees in the early stages of their careers within the organization can be su
 - Regular manager check-ins
 - Mentoring
 - Early engagement initiatives
+<br>
 3. Focus on High-Attrition Job Roles
 <br>
 Roles showing higher historical attrition should be investigated further for:
@@ -124,6 +126,7 @@ Roles showing higher historical attrition should be investigated further for:
 - Career growth
 - Management practices
 - Job satisfaction
+<br>
 4. Improve Career Development
 <br>
 Employees experiencing longer periods without promotion may benefit from clearer:
@@ -131,9 +134,11 @@ Employees experiencing longer periods without promotion may benefit from clearer
 - Development plans
 - Skill-building opportunities
 - Promotion criteria
+<br>
 5. Monitor Employee Satisfaction
 <br>
 Job satisfaction can be incorporated into broader employee engagement and retention monitoring.
+<br>
 6. Use Data for Targeted Retention
 <br>
 Instead of applying the same retention strategy to the entire workforce, HR can use employee segments to prioritize areas requiring attention.
