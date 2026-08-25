@@ -82,7 +82,7 @@ The analysis includes questions such as:
 - Does distance from home relate to attrition?
 ### 5️⃣ Power BI Dashboard Development
 The final Power BI dashboard transforms the analytical results into an interactive HR reporting solution.
-### 📌 Dashboard KPIs
+# 📌 Dashboard KPIs
 KPIs : 
 - Total Employees	
 - Employees Left	
@@ -103,16 +103,20 @@ KPIs :
 # 📷 Dashboard Preview
 <img width="799" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/8783f66a-1a4d-483c-ad42-bce314b7e9db" />
 # 💡 HR Recommendations
-Based on the analytical framework and observed attrition patterns, HR can consider the following areas for further action:
+<br>
+Based on the analytical framework and observed attrition patterns, HR can consider the following areas for further action:<br>
 1. Monitor Overtime & Workload
+<br>
 Review workload distribution and overtime patterns in teams where employee turnover is relatively high.
 2. Strengthen Early-Tenure Retention
+<br>
 Employees in the early stages of their careers within the organization can be supported through:
 - Stronger onboarding
 - Regular manager check-ins
 - Mentoring
 - Early engagement initiatives
 3. Focus on High-Attrition Job Roles
+<br>
 Roles showing higher historical attrition should be investigated further for:
 - Workload
 - Compensation
@@ -120,16 +124,21 @@ Roles showing higher historical attrition should be investigated further for:
 - Management practices
 - Job satisfaction
 4. Improve Career Development
+<br>
 Employees experiencing longer periods without promotion may benefit from clearer:
 - Career paths
 - Development plans
 - Skill-building opportunities
 - Promotion criteria
 5. Monitor Employee Satisfaction
+<br>
 Job satisfaction can be incorporated into broader employee engagement and retention monitoring.
 6. Use Data for Targeted Retention
+<br>
 Instead of applying the same retention strategy to the entire workforce, HR can use employee segments to prioritize areas requiring attention.
 # 📌 Project Outcome
 The project successfully transforms raw employee information into an interactive HR analytics solution.
+<br>
 The final workflow connects:
+<br>
 Business Requirements → Data Preparation → Python Analysis → SQL Analysis → Power BI Dashboard → HR Insights
