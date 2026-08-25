@@ -90,3 +90,16 @@ KPIs :
 - Active Employees
 - Average Age	
 - Average Year
+# 🚀 Project Highlights
+- Built an end-to-end HR Employee Attrition Analytics project.
+- Created a structured Business Requirements Document.
+- Cleaned and prepared employee data using Excel.
+- Performed exploratory analysis using Python and Pandas.
+- Created analytical visualizations using Matplotlib.
+- Solved HR-focused business questions using SQL.
+- Developed an interactive Power BI dashboard.
+- Created KPI-driven workforce analysis.
+- Added interactive dashboard filtering.
+# 📷 Dashboard Preview
+<img width="799" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/8783f66a-1a4d-483c-ad42-bce314b7e9db" />
+
