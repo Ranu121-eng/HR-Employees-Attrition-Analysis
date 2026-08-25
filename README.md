@@ -102,7 +102,7 @@ KPIs :
 - Added interactive dashboard filtering.
 # 📷 Dashboard Preview
 <img width="799" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/8783f66a-1a4d-483c-ad42-bce314b7e9db" />
-# 💡 HR Recommendations
+#💡 HR Recommendations
 <br>
 Based on the analytical framework and observed attrition patterns, HR can consider the following areas for further action:<br>
 1. Monitor Overtime & Workload
@@ -136,7 +136,8 @@ Job satisfaction can be incorporated into broader employee engagement and retent
 6. Use Data for Targeted Retention
 <br>
 Instead of applying the same retention strategy to the entire workforce, HR can use employee segments to prioritize areas requiring attention.
-# 📌 Project Outcome
+<br>
+#📌 Project Outcome
 The project successfully transforms raw employee information into an interactive HR analytics solution.
 <br>
 The final workflow connects:
